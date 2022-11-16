@@ -44,3 +44,12 @@ img {
     border: 2px ridge;
     border-radius: 10px;
 }
+
+.recipes {
+    font-size: 0.7em;
+}
+
+.recipes img {
+    
+    max-width: 600px;
+}
